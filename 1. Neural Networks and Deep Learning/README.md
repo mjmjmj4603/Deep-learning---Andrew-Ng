@@ -15,6 +15,6 @@
 - Building your Deep Neural Network - Step by Step v5.ipynb
 - Deep Neural Network - Application v3.ipynb
 
-Every image required to view correctly the Jupyter Notebooks are stored in `images` folder.
+
 
 
